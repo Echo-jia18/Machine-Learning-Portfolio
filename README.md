@@ -1,4 +1,4 @@
-# Data-Project-Portfolio
+# Machine-Learning-Portfolio
 
 ## Undergraduate Projects
 
